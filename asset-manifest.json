@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-pie-chart/static/js/main.5c3477f4.chunk.js",
+    "main.js.map": "/react-pie-chart/static/js/main.5c3477f4.chunk.js.map",
+    "runtime-main.js": "/react-pie-chart/static/js/runtime-main.583b07dd.js",
+    "runtime-main.js.map": "/react-pie-chart/static/js/runtime-main.583b07dd.js.map",
+    "static/js/2.b300dddd.chunk.js": "/react-pie-chart/static/js/2.b300dddd.chunk.js",
+    "static/js/2.b300dddd.chunk.js.map": "/react-pie-chart/static/js/2.b300dddd.chunk.js.map",
+    "index.html": "/react-pie-chart/index.html",
+    "precache-manifest.fe80f005abb18a841975f4a74179653b.js": "/react-pie-chart/precache-manifest.fe80f005abb18a841975f4a74179653b.js",
+    "service-worker.js": "/react-pie-chart/service-worker.js",
+    "static/js/2.b300dddd.chunk.js.LICENSE.txt": "/react-pie-chart/static/js/2.b300dddd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.583b07dd.js",
+    "static/js/2.b300dddd.chunk.js",
+    "static/js/main.5c3477f4.chunk.js"
+  ]
+}
